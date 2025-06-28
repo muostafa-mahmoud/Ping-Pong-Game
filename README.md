@@ -1,2 +1,2 @@
 # Ping-Pong-Game
-# basic python commands handles a ping pong game 
+# Basic python commands handles a ping pong game 
